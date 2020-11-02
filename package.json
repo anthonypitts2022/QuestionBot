@@ -1,0 +1,19 @@
+{
+  "name": "questionbot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start index.js"
+  },
+  "author": "Tempris Gaming",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "tmi.js": "^1.5.0",
+    "twitch": "^4.2.7",
+    "twitch-auth": "^4.2.7",
+    "twitch-chat-client": "^4.2.7",
+    "twitch-js": "^2.0.0-beta.33"
+  }
+}
